@@ -27,7 +27,7 @@
             android:layout_height="wrap_content" >
 
             <EditText
-                android:id="@+id/editText1"
+                android:id="@+id/searchText"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_alignBottom="@+id/linearLayout1"
